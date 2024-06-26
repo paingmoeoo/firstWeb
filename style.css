@@ -1,0 +1,256 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.width-100{
+    width: 100%;
+    float: left;
+}
+.container{
+    width: 1500px;
+    margin: 0px auto;
+}
+.top-header{
+    padding: 5px 0px;
+    background: rgb(180, 244, 177);
+    border-bottom: 2px solid;
+}
+.new-list{
+    background: rgb(117, 61, 29);
+    color: white;
+    padding: 6px;
+    font-size: 20px;
+}
+.headquote{
+    font-size: 18px;
+    width: 85%;
+}
+.header-menu{
+    border-bottom: 2px solid;
+    position: relative;
+    box-shadow: 0px 0px 7px 0px;
+}
+.main-menu{
+    float: right;
+    list-style: none;
+    padding-top: 20px;
+}
+.main-menu a{
+    font-size: 27px;
+    color: rgb(79, 107, 25);
+    text-decoration: none;
+    font-weight: 500;
+}
+.main-menu li{
+    float: left;
+    margin: 12px 15px;
+}
+.logo{
+    float: left;
+    width: fit-content;
+}
+.image-width{
+    width: 100%;
+}
+.top-50{
+    margin-top: 50px;
+    border-bottom: black 2px solid;
+    box-shadow: 10px 10px 8px pink;
+}
+.width-33{
+    width: 33%;
+    float: left;
+
+}
+.title-sect{
+    width: 100%;
+    float: left;
+    border-bottom: 1px black;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 15px;
+    padding-top: 2px;
+    border: 1px solid;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: rgb(142, 198, 212);
+    color: rgb(47, 48, 49);
+}
+.title-1{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.latest-news-ul{
+    padding: 0px;
+    list-style: none;
+    line-height: 40px;
+}
+.latest-news{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    background-color: rgb(136, 193, 83);
+    margin-bottom: 30px;
+}
+.event-list{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    background-color: rgb(136, 193, 83);
+    margin-bottom: 30px;
+}
+.event-ul{
+    padding: 0px;
+    list-style: none;
+}
+.event-ul li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+.event-date{
+    background: purple;
+    width: 30px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px;
+    margin-right: 10px;
+}
+.notice-list{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    background-color: rgb(136, 193, 83);
+    margin-bottom: 30px;
+}
+.notice-ul{
+    padding: 0px;
+    list-style: none;
+    line-height: 40px;
+}
+.notice-ul li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+.our-principal{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    background-color:  rgb(136, 193, 83);
+    margin-bottom: 30px;
+}
+.useful-info-ul{
+    list-style: none;
+}
+.useful-info-ul li{
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid green;
+}
+.useful-info-ul a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.gov-name{
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.gov-job{
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-top: 6px;
+}
+.gov-img{
+    width: 100%;
+}
+.gov-sec-style{
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+.width-40{
+    width: 40%;
+    float: left;
+}
+.width-60{
+    width: 60%;
+    float: left;
+}
+.about-us{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    background-color:  rgb(136, 193, 83);
+    margin-bottom: 30px;
+}
+.certificate{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+    height: 350px;
+    background-color:  rgb(136, 193, 83);
+    margin-bottom: 30px;
+}
+.gallery-head-style{
+    font-size: 28px;
+    color: black;
+    margin-bottom: 5px;
+    padding: 2px 0px;
+    background: white;
+}
+.gallrey-img{
+    height: 250px;
+    width: auto;
+}
+
+.width-25{
+    width: 25%;
+    float: left;
+}
+.footer{
+    background: skyblue;
+    padding: 50px 0px;
+}
+.quicklink-heading{
+    font-size: 18xp;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.quicklink-menu{
+    list-style: none;
+    padding: 10px;
+}
+.quicklink-menu li a{
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 2.5;
+    color: white;
+}
+.get-in-touch{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.get-in-touch li{
+    color: #fff;
+    line-height: 2.5;
+    font-size: 15px;
+}
